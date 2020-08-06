@@ -11,3 +11,4 @@ You can follow along [here](https://medium.com/@zachvv11/real-time-chat-room-wit
 1. Update your `.env` file with your `LARASOCKET_TOKEN`. You can get one for free at [Larasocket](https://larasocket.com)
 1. `php artisan migrate`
 1. `php artisan serve`
+1. Head over to: http://localhost:8000/chat to try out the demo.
